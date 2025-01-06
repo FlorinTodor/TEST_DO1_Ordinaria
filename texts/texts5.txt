@@ -1,0 +1,64 @@
+1. Pregunta 1:
+
+Enunciado: Golden AI es una empresa virtual que busca emplear un servidor alquilado a otra empresa, por lo que deberá considerar como criterio la localización del servidor en lugares remotos, como el golfo de Finlandia o el fondo del mar, a la hora de seleccionar el servicio de alquiler más adecuado.
+Respuesta correcta: Falso.
+Justificación 1: La localización del servidor no depende únicamente de lugares remotos o inusuales, como el fondo del mar o el golfo de Finlandia, sino de factores como la seguridad, latencia, acceso a redes, y costes operativos​​.
+Justificación 2: La elección de un servidor incluye criterios como fiabilidad, eficiencia energética y accesibilidad a la red global, no solo su ubicación geográfica.
+Justificación 3: Golden AI tiene un servidor propio o que no le renta tener esos costes externos.
+
+2. Pregunta 2:
+
+Enunciado: Según el siguiente titular de Economía Digital (25/10/2021): "Ford pide rebajas salariales en Almussafes o amenaza con la deslocalización", Ford tiene como principal razón para la posible decisión de localización los cambios en el coste de los inputs.
+Respuesta correcta: Verdadero.
+
+3. Pregunta 3:
+
+Enunciado: La decisión de localización se toma únicamente en el momento de creación de una empresa, determinando la capacidad competitiva de dicha empresa.
+Respuesta correcta: Falso.
+Justificación 1: La decisión de localización no se toma exclusivamente al crear una empresa; también ocurre en momentos posteriores debido a cambios en la demanda, expansión, o necesidad de relocalización​​.
+Justificación 2: Las decisiones de localización son estratégicas y pueden surgir a lo largo de la vida de la empresa, adaptándose a factores como obsolescencia de instalaciones o presiones competitivas.
+
+
+4. Pregunta 4:
+
+Enunciado: En relación con las áreas de agrupamiento empresarial, el uso de espacios de co-working tiene un carácter temporal, normalmente de 1-3 años.
+Respuesta correcta: Falso.
+Justificación 1: Los espacios de co-working no tienen un límite de uso estricto de 1-3 años; su duración depende de las necesidades y acuerdos específicos de los usuarios. Algunas empresas o autónomos los utilizan de forma indefinida​.
+Justificación 2: Los espacios de co-working son flexibles y están diseñados para adaptarse a diversos horizontes temporales, según los objetivos de quienes los emplean.
+
+5. Pregunta 5:
+
+Enunciado: El efecto lugar de origen es una práctica de competencia desleal mediante la cual las empresas reducen costes aprovechándose de los bajos salarios y pobres condiciones laborales de un país subdesarrollado.
+Respuesta correcta: Falso.
+Justificación 1: El efecto lugar de origen no se refiere a competencia desleal, sino a la percepción que tienen los consumidores sobre los productos basándose en su país de origen, que puede ser positiva o negativa dependiendo de la imagen del país​​.
+Justificación 2: El efecto lugar de origen influye en las decisiones de compra debido a asociaciones culturales, de calidad o estatus, no a condiciones laborales.
+Justificación 3: Se refiere al dumping social, no al efecto lugar de origen.
+
+6. Pregunta 6:
+
+Enunciado: Las economías de localización o aglomeración se refieren a la reducción en costes que supone estar alejado de la competencia al "conquistar" una mayor cuota de mercado.
+Respuesta correcta: Falso.
+Justificación 1: Las economías de localización o aglomeración se refieren a los beneficios que las empresas obtienen al ubicarse cerca de otras, como la reducción de costes logísticos y el acceso compartido a recursos, no al aislamiento competitivo​​.
+Justificación 2: Las economías de aglomeración mejoran la eficiencia al crear sinergias entre empresas cercanas, fomentando colaboración y especialización, no al conquistar mercados.
+Justificación 3: Las economías de localización se refieren a cuando estás cerca no alejados de la competencia.
+
+7. Pregunta 7:
+
+Enunciado: De acuerdo con las fases en el proceso secuencial de localización, el análisis preliminar se corresponde con el establecimiento de requisitos de localización, considerando la importancia relativa de cada uno.
+Respuesta correcta: Verdadero.
+
+8. Pregunta 8:
+
+Enunciado: Silver AI es una empresa virtual que busca emplear un servidor propio, por lo que deberá considerar el consumo energético que tiene el servidor, ya que eso supondrá elevados costes.
+Respuesta correcta: Verdadero.
+
+9. Pregunta 9:
+
+Enunciado: Wilson es un nómada digital que posee una empresa de asesoramiento legal 100% virtual y trabaja de forma remota en distintos lugares del mundo. Según esta información, indique si la siguiente afirmación es verdadera o falsa: "La proximidad al mercado potencial es irrelevante para la localización de la sede social de la empresa de Wilson."
+Respuesta correcta: Verdadero.
+
+10. Pregunta 10:
+
+Enunciado: En relación con las áreas de agrupamiento empresarial, los viveros, semilleros, incubadoras ofrecen condiciones ventajosas a las empresas que acogen como, por ejemplo, programas de apoyo a la creación de empresas y asesoramiento especializado.
+Respuesta correcta: Verdadero.
+

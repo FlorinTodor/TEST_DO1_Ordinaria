@@ -1,0 +1,103 @@
+Pregunta 1:
+
+
+La capacidad productiva de una empresa a largo plazo influye tanto en la capacidad de respuesta de una empresa como en su estructura de costes, política de inventarios y características de la fuerza de trabajo.
+
+Respuesta marcada: Verdadero
+
+Pregunta 2:
+El overbooking es una práctica legal y común entre aerolíneas que se lleva a cabo porque estas prevén que existirá exceso de capacidad ante una demanda futura.
+
+Respuesta marcada: Verdadero
+Pregunta 3:
+
+
+A la hora de medir la capacidad de una empresa manufacturera en el sector automovilístico, lo adecuado sería medir en base a outputs, dado que se trata de una empresa con procesos "no repetitivos" o discontinuos.
+
+Respuesta marcada: Falso
+Justificación 1: En empresas manufactureras con procesos repetitivos, como el sector automovilístico, la capacidad debe medirse en base a outputs, ya que estos reflejan el volumen de producción continua. Por tanto, no es adecuado asumir que los procesos son no repetitivos o discontinuos​​.
+Justificación 2: La medición por outputs es aplicable a procesos continuos y repetitivos, como la producción en cadena, permitiendo calcular unidades finales producidas en un tiempo determinado.
+Justificación 3: Hace referencia a procesos repetitivos
+Pregunta 4:
+
+
+Por norma general, al prestar un servicio, la cola única en forma de "S" se asocia con menor posibilidad de elegir una cola más lenta y menor probabilidad de abandonar la cola.
+
+Respuesta marcada: Verdadero
+Pregunta 5:
+
+
+Ante un exceso de demanda, las empresas pueden realizar ajustes en su capacidad a corto y medio plazo, como poner pedidos en "back order", es decir, vender inventario que la empresa no tiene a disposición de forma que el cliente reciba su pedido en una fecha posterior.
+
+Respuesta marcada: Verdadero
+Pregunta 6:
+
+
+El grupo de 2° de ADE del turno de mañanas de la UGR tiene 63 estudiantes. Un estudiante de tardes pudo modificar su matrícula y unirse al grupo de mañanas al quedarse una plaza libre. Teniendo en cuenta esta información, indique si la siguiente afirmación es verdadera o falsa:
+
+"La población de clientes (i.e. estudiantes) que desean acudir al turno de mañanas es finita, ya que el número de estudiantes que ya están en el sistema afecta al número de estudiantes potenciales (población)."
+
+Respuesta marcada: Verdadero
+Pregunta 7:
+
+
+Para resolver los problemas de capacidad en los servicios mediante gestión de colas se recomienda mantenerlas, ya que las colas implican que la empresa tiene cierto "prestigio" y ofrece una imagen favorable para los clientes en cualquier caso.
+
+Respuesta marcada: Falso
+Justificación 1: Mantener colas no siempre proyecta prestigio ni una imagen favorable. En muchas ocasiones, largas colas generan frustración y descontento entre los clientes, especialmente si no se gestiona adecuadamente el tiempo de espera​.
+Justificación 2: La gestión de colas busca optimizar el flujo de clientes y minimizar el tiempo de espera percibido, no promover colas como símbolo de prestigio.
+
+Pregunta 8:
+
+
+Las deseconomías de escala describen que múltiples productos se pueden producir a un coste más bajo si se hacen de forma combinada que por separado a través de sinergias.
+
+Respuesta marcada: Falso
+Justificación 1: Las deseconomías de escala no implican una reducción de costos al producir múltiples productos combinados. Por el contrario, las deseconomías de escala se refieren al aumento de costos unitarios cuando una organización crece en exceso y pierde eficiencia​.
+Justificación 2: Las deseconomías de escala ocurren por problemas como complejidad operativa, coordinación deficiente o recursos infrautilizados, en lugar de generar sinergias de costos.
+Justificación 3: Hace referencia a las economías de escala.
+
+Pregunta 9:
+
+
+"La empresa MyPen S.L. cuenta con una capacidad teórica o diseñada de 100 bolígrafos al día. Sin embargo, en los últimos días cinco empleados faltaron a sus puestos de trabajo por tener que realizar una cuarentena preventiva. Ante este hecho, MyPen ha estimado que su factor de utilización se ha reducido varios puntos hasta llegar al 90%." Indique si la siguiente afirmación es verdadera o falsa:
+
+"Si el factor de eficiencia de MyPen S.L. sigue siendo del 100%, la capacidad disponible actual será igual a la capacidad diseñada, es decir, de 100 bolígrafos/día."
+
+Respuesta marcada: Falso
+Justificación 1: Si el factor de utilización es del 90%, significa que la capacidad disponible será menor que la capacidad diseñada. La capacidad diseñada (100 bolígrafos/día) se ajusta según la utilización, y una disminución en la utilización reducirá la capacidad disponible​.
+Justificación 2: La capacidad disponible resulta de ajustar la capacidad diseñada en función del factor de utilización y eficiencia. Una utilización del 90% implica que solo se alcanzará el 90% de la capacidad diseñada.
+Justificación 3: Sería 90 bolígrafos
+Pregunta 10:
+
+
+Un modelo de ajuste de capacidad expansionista o proactivo resulta adecuado cuando existen altos costes de insatisfacción de la demanda.
+
+Respuesta marcada: Verdadero
+
+
+Pregunta 11:
+
+Texto:
+Un modelo de ajuste de capacidad reactivo o conservador resulta adecuado cuando existe un bajo coste por capacidad ociosa.
+Respuesta correcta: Falso
+Justificación 1: Un modelo reactivo o conservador es adecuado cuando el coste por capacidad ociosa es alto, no bajo. Este modelo busca minimizar los riesgos asociados a la sobrecapacidad, esperando señales claras de demanda antes de expandir​.
+Justificación 2: El enfoque reactivo está diseñado para ser cauteloso, evitando la acumulación innecesaria de capacidad ociosa, especialmente si esta implica costos significativos.
+Justificación 3: Cuando existe un alto coste por capacidad ocioso
+Justificación 4: Se trata de una estrategia expansionista
+
+Pregunta 12:
+
+Texto:
+Gracias al iPad, Apple domina el mercado, obteniendo el 50% de los nuevos compradores de tablets. La fabricación de iPad y iPhone comparten componentes comunes, lo que significa que Apple puede cambiar las líneas de ensamblaje entre ambos dispositivos para priorizar la fabricación de uno u otro. Este factor que influye en la planificación de la capacidad productiva se denomina economías de alcance.
+Respuesta correcta: Verdadero
+
+Pregunta 13:
+
+Texto:
+La empresa KETO S.A se dedica a elaborar productos bajos en carbohidratos en el sector de la alimentación. Esta prevé un crecimiento de la demanda dada su expansión por Europa durante los próximos 3 años, por lo que, entre las medidas correctivas de capacidad que puede aplicar a largo plazo, podría pagar horas extra a sus trabajadores actuales.
+Respuesta correcta: Falso
+Justificación 1: Las horas extra son una medida correctiva de capacidad a corto o medio plazo, no a largo plazo. Las medidas de largo plazo implican decisiones estructurales, como ampliar instalaciones o adquirir equipos​.
+Justificación 2: Las medidas de largo plazo tienen un carácter más estratégico y estructural, mientras que las horas extra se consideran soluciones temporales y coyunturales.
+Justificación 3: Es a medio-corto plazo
+

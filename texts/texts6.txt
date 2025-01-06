@@ -1,0 +1,76 @@
+Pregunta 1:
+Texto de la pregunta:
+Las células de trabajo o layout celular constituyen un tipo de distribución en planta que resulta adecuada cuando los volúmenes de trabajo no son suficientes para mantener ocupados a los trabajadores en una línea de producción y existe un trabajador que se ocupa de múltiples máquinas.
+
+Respuesta correcta: Verdadero
+
+Pregunta 2:
+Texto de la pregunta:
+Un buffet libre tiene cuatro áreas organizadas en base a bebidas, entrantes, platos principales y postres. Su distribución de layout según el tipo de proceso se corresponde con un layout por producto o repetitivo.
+
+Respuesta correcta: Falso
+Justificación 1: La organización del buffet libre en áreas según bebidas, entrantes, platos principales y postres corresponde a un layout por proceso o funcional, ya que las estaciones se agrupan en función de la similitud de las tareas o actividades, no en un flujo continuo típico del layout por producto​​.
+Justificación 2: El layout por proceso organiza los recursos de acuerdo con las funciones específicas realizadas en cada área, ideal para operaciones con alta variedad y volúmenes bajos o moderados.
+Justificación 3: Sería funcional o por células.
+
+Pregunta 3:
+Texto de la pregunta:
+Aceites Maeva, productora y distribuidora de aceites de oliva virgen extra reconocidos y premiados mundialmente, ha implantado almacenes con una configuración de layout que le permita procesar pedidos y envíos a medida que los recibe, evitando el almacenamiento. Con esta configuración, no queda al final de cada jornada prácticamente ninguna mercancía en su almacén.
+En relación con la información anterior podemos decir que Aceites Maeva sigue un sistema de almacenamiento aleatorio con recuperación automatizada (ASRS).
+
+Respuesta correcta: Falso
+Justificación 1: La configuración descrita para Aceites Maeva corresponde más a un sistema just-in-time (JIT) o "almacén de flujo", donde se busca evitar almacenamiento prolongado procesando pedidos en tiempo real, no a un sistema automatizado de recuperación y almacenamiento (ASRS), que se utiliza para gestionar inventarios dentro de almacenes​​.
+Justificación 2: El ASRS está diseñado para almacenar y recuperar mercancías de manera automatizada, mientras que el sistema JIT minimiza o elimina la necesidad de almacenamiento.
+Justificación 3: Maeva es cross-docking.
+
+Pregunta 4:
+Texto de la pregunta:
+En relación con los objetivos básicos del layout, el objetivo de circulación mínima pretende "que los recorridos efectuados por los materiales y personas sean óptimos, lo cual requiere economía de movimientos, de equipos, de espacio, etc., además de conocer las interconexiones entre los distintos centros y puestos de trabajo."
+
+Respuesta correcta: Verdadero
+
+Pregunta 5:
+Texto de la pregunta:
+La distribución en planta o layout consiste en la disposición específica de los recursos productivos y la asignación de tareas a cada uno de ellos, tratándose de una decisión de carácter estratégico.
+
+Respuesta correcta: Verdadero
+
+Pregunta 6:
+Texto de la pregunta:
+El layout de almacenes resulta esencial para la empresa de manufacturas puesto que los procesos de almacenamiento añaden un valor clave al producto final.
+
+Respuesta correcta: Falso
+Justificación 1: Los procesos de almacenamiento no añaden un valor directo al producto final; su objetivo es facilitar la gestión y la distribución. El layout de almacenes optimiza el espacio y los flujos de trabajo, pero no se considera un elemento que agregue valor al producto​​.
+Justificación 2: El almacenamiento es un soporte logístico para la producción y distribución, no un componente de valor intrínseco del producto. 
+
+Pregunta 7:
+Texto de la pregunta:
+La oficina convencional presenta distintas ventajas, entre las que destacan una comunicación más fluida entre los trabajadores y equipos comunes (fotocopiadoras, impresoras, material) que reducen los costes de la empresa.
+
+Respuesta correcta: Falso
+Justificación 1: Las oficinas convencionales no necesariamente promueven una comunicación más fluida debido a la separación física entre departamentos o trabajadores. Este tipo de diseño puede generar barreras de comunicación comparado con layouts abiertos​​.
+Justificación 2: El diseño de oficina convencional prioriza la privacidad y el enfoque en tareas individuales, pero puede dificultar la interacción y colaboración entre equipos.
+
+
+Pregunta 8:
+Texto de la pregunta:
+El Layout por proceso o funcional resulta adecuado cuando la empresa cuenta con un bajo volumen de producción y alta variedad en sus productos.
+
+Respuesta correcta: Verdadero
+
+Pregunta 9:
+Texto de la pregunta:
+Un programa de "hotelig" consiste en oficinas que permiten hospedarse y pernoctar a los trabajadores de proyectos temporales.
+
+Respuesta correcta: Falso
+Justificación 1: Un programa de "hoteling" no implica hospedaje ni pernocta; se refiere a la práctica de asignar escritorios u oficinas a empleados únicamente cuando los necesitan, promoviendo el uso flexible de espacios de trabajo​​.
+Justificación 2: El hoteling optimiza el uso del espacio físico, asignando recursos compartidos según la necesidad, sin incluir alojamiento.
+Justificación 3: Hoteling es espacio compartido no espacio personal.
+
+Pregunta 10:
+Texto de la pregunta:
+Un aumento de la especialización del puesto de trabajo conduce a una mayor productividad, pero los trabajos repetitivos pueden disminuir la motivación y satisfacción de los trabajadores/as. Según la información anterior: el diseño de lugar de trabajo deberá crear puestos que garanticen la expansión vertical, enriqueciendo la variedad de tareas del puesto de trabajo.
+
+Respuesta correcta: Falso
+Justificación 1: La expansión vertical no se refiere a enriquecer la variedad de tareas, sino a aumentar el nivel de responsabilidad y autonomía del trabajador en su puesto. La variedad de tareas se logra a través de la ampliación horizontal del puesto, no mediante su expansión vertical​​.
+Justificación 2: Se trata de expansión horizontal no vertical.

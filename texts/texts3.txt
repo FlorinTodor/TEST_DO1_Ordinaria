@@ -1,0 +1,63 @@
+Pregunta 1:
+En relación con las diferentes estrategias del proceso productivo, la personalización en masa es un enfoque que en la práctica resulta imposible de alcanzar.
+Respuesta Correcta: Falso
+Justificación 1: La personalización en masa es una estrategia viable que combina la flexibilidad de la personalización con la eficiencia de la producción en masa, utilizando tecnologías avanzadas y procesos flexibles para satisfacer necesidades individuales sin sacrificar la escala económica​​.
+Justificación 2: La personalización en masa implica producir bienes o servicios adaptados a las preferencias individuales de los clientes mientras se mantiene una alta eficiencia y bajos costos, aprovechando herramientas como la automatización o la digitalización.
+Justificación 3: Resulta dificil, Ejemplo Netflix.
+
+Pregunta 2:
+Según una noticia de Neomotor (13 de enero de 2022), Polestar, la marca de vehículos premium deportivos y eléctricos del Grupo Geely, llegó a España en 2022. Tras vender 29,000 coches en 2021 con esta estrategia de expansión internacional, la firma de vehículos eléctricos logró cruzar en 2023 el umbral de rentabilidad. Superar este umbral significó que Polestar obtuvo sus primeros beneficios durante 2023.
+Respuesta Correcta: Verdadero
+
+Pregunta 3:
+El enfoque por proyectos o de posición fija resulta más adecuado para elaborar productos únicos de elevada complejidad, donde los inputs y outputs presentan elevada especificidad.
+Respuesta Correcta: Verdadero
+
+Pregunta 4:
+En relación con las herramientas de análisis y diseño de procesos, los diagramas de flujo consideran la variable tiempo para realizar un esquema o dibujo del movimiento del material, el producto y/o las personas.
+Respuesta Correcta: Falso
+Justificación 1: Los diagramas de flujo no consideran explícitamente la variable tiempo; su propósito es mostrar de manera gráfica los pasos de un proceso o los movimientos de materiales, productos o personas en términos de flujo y conexiones, pero no en una escala temporal​.
+Justificación 2: Los diagramas de flujo representan secuencias y relaciones de un proceso, pero para incorporar tiempo se utilizan herramientas como cronogramas o gráficos de Gantt.
+
+
+Pregunta 5:
+El análisis coste-volumen-beneficio (CVB) tiene sentido únicamente en el corto plazo.
+Respuesta Correcta: Verdadero
+
+Pregunta 6:
+La estrategia del proceso productivo debe cumplir las especificaciones del producto dentro de las restricciones de coste y de gestión existentes, a la vez que se satisfacen los requisitos del cliente.
+Respuesta Correcta: Verdadero
+
+Pregunta 7:
+La productividad multifactorial emplea una unidad de medida y un horizonte temporal común para todos los factores.
+Respuesta Correcta: Verdadero
+
+Pregunta 8:
+El análisis coste-volumen-beneficio (CVB) considera una perspectiva económica y financiera en su cálculo.
+Respuesta Correcta: Falso
+Justificación 1: El análisis coste-volumen-beneficio (CVB) tiene un enfoque operativo que considera relaciones entre costos, ingresos y volúmenes de producción, pero no analiza variables financieras como el flujo de caja o la rentabilidad a largo plazo​​.
+Justificación 2: Aunque económico, el CVB no incluye perspectivas financieras más complejas, como tasas de interés o depreciaciones.
+Justificación 3: El análisis coste-volumen-beneficio (CVB) considera una perspectiva económica en su cálculo.
+
+Pregunta 9:
+En relación con las diferentes estrategias del proceso productivo, el enfoque de proceso también es conocido como proceso continuo ya que simula un flujo continuo de producción o secuencia continua de operaciones.
+Respuesta Correcta: Falso
+Justificación 1: El enfoque de proceso no se asocia con procesos continuos, sino con operaciones que agrupan tareas similares, como en talleres o servicios personalizados. Los procesos continuos corresponden al enfoque de producto​​.
+Justificación 2: El enfoque de proceso organiza recursos en función de tareas similares, mientras que el proceso continuo busca eficiencia y fluidez en la producción de productos estandarizados.
+Justificación 3: Hace referencia al enfoque de producto
+
+Pregunta 10:
+“Para hacer frente a la caída de ingresos durante el confinamiento a causa del COVID-19, Airbnb, la plataforma de pisos vacacionales, ofreció experiencias virtuales como meditación con monjes budistas, viajes virtuales, cocinar con chefs conocidos o predicciones de tu futuro (Adaptado de Crónica, 11/04/2020).” En el diseño de su proceso productivo, este hecho hace referencia especialmente al factor de naturaleza de la demanda de carácter estacional.
+Respuesta Correcta: Falso
+Justificación 1: Este hecho se relaciona con la adaptación de Airbnb a cambios en la demanda por el confinamiento, no con la estacionalidad, que está vinculada a fluctuaciones previsibles por temporadas como verano o Navidad​.
+Justificación 2: La estacionalidad se refiere a variaciones cíclicas en la demanda debido a patrones anuales, mientras que la respuesta de Airbnb fue una adaptación a una situación imprevista.
+Justificación 3: Hace referencia a la flexibilidad no al caracter estacional.
+
+Pregunta 11:
+La empresa SilverPen S.L. se especializa en el desarrollo de bolígrafos de lujo únicos, asegurando que no existen dos bolígrafos iguales en el mundo. Se trata de un proceso artesanal cuya estrategia de proceso productivo más adecuada sería un enfoque de producto.
+
+Respuesta Correcta: Falso
+Justificación 1: El proceso productivo adecuado sería el enfoque por proyecto o posición fija, ya que se trata de un producto único y artesanal, no un enfoque de producto que es para producción en masa y estandarización​​.
+Justificación 2: El enfoque de producto se utiliza para procesos de gran volumen y baja variedad, mientras que el enfoque por proyecto es ideal para productos únicos y personalizados.
+Justificación 3: Hace referencia al enfoque de proceso.
+

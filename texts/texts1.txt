@@ -1,0 +1,61 @@
+Pregunta 1: Seleccione la opción correcta en relación con una gestión de la cadena de suministro Lean (Lean Supply Chain Management):
+
+a) Suele emplearse para productos funcionales. (Correcta)
+b) Comparte un alto volumen de información y de distinta tipología con sofisticados sistemas de captación de datos y análisis de demanda.
+c) Busca alcanzar una gran rapidez de transporte para satisfacer la demanda de sus clientes, realizando numerosos envíos en bajas cantidades.
+d) Las opciones A y C son correctas.
+Pregunta 2: Un ingrediente básico para abrazar la competitividad es la digitalización del producto, que abre el camino a la ______ de las empresas industriales. Complete el hueco con el término que recibe esta tendencia hacia la oferta de soluciones, frente a la venta de bienes:
+
+a) Planificación de requerimientos de materiales (MRP)
+b) Gestión de la cadena de suministro Lean (Lean Supply Chain)
+c) Gestión de la cadena de suministro ágil (Agile Supply Chain)
+d) Servitización o servitization. (Correcta)
+Pregunta 3: Un servicio como el de "Room Mate Hotels", que permite reservar en hoteles con ubicación privilegiada a precio económico, presenta la característica de:
+
+a) Tangibilidad, ya que la habitación de un hotel se puede tocar y percibir de manera clara y precisa por los usuarios.
+b) Patentable, esta idea de servicio se puede registrar en la Oficina Española de Patentes y Marcas.
+c) Dificultad de medir su calidad y evaluarlo objetivamente. (Correcta)
+d) Todas las respuestas son correctas.
+Pregunta 4: Inditex, el gigante del sector textil, utiliza tecnologías de vanguardia en su gestión de cadena de suministro. Esto muestra elementos para ser:
+
+a) Lean. (Correcta)
+b) Ágil.
+c) Fiable.
+d) Ninguna opción es correcta.
+Pregunta 5: Elija la respuesta correcta sobre la dirección de operaciones:
+
+a) Se centra exclusivamente en la fabricación de productos o bienes tangibles.
+b) Se centra en actividades de transformación de inputs en outputs, dando lugar tanto a bienes como a servicios.
+c) Es una de las áreas funcionales básicas, siendo el puesto de Chief Operating Officer (COO) el cargo más importante después del CEO en muchas empresas.
+d) Las opciones B y C son correctas. (Correcta)
+Pregunta 6: Seleccione la opción correcta sobre una gestión de la cadena de suministro ágil (Agile Supply Chain Management):
+
+a) Cuenta con sistemas de arrastre (Pull), es decir, no se produce hasta que realmente exista una demanda.
+b) Tiene como objetivo alcanzar una mayor flexibilidad y rapidez para atender la demanda.
+c) Cuenta con altos niveles de inventario para satisfacer la demanda en todo momento.
+d) Todas las respuestas son correctas. (Correcta)
+Pregunta 7: Entre las decisiones de operaciones carácter táctico u operativo, encontramos:
+
+a) Diseño de producto/servicio.
+b) Decisión de localización.
+c) Gestión de inventarios. (Correcta)
+d) Las opciones B y C son correctas.
+Pregunta 8: Señale cuál(es) de los siguientes casos representa(n) fielmente una estrategia de diferenciación:
+
+a) La manzana denominada "Pink Lady", donde el cliente normalmente percibe una calidad y sabor superior, estando dispuesto a pagar más por dicha variedad. (Correcta)
+b) Una startup del sector insurtech (seguros) que ha introducido una nueva APP en el mercado, consiguiendo abaratar notablemente los costes de emisión de pólizas de seguros.
+c) Una empresa de productos de higiene que comercializa una extremada gama de dentífricos sin que los clientes sepan distinguirlos con certeza.
+d) Todas las respuestas son correctas.
+Pregunta 9: La Dirección de Operaciones es un área de dirección en la empresa cuyas decisiones están influenciadas por los hechos y circunstancias del entorno. Son tendencias de actualidad en la Dirección de Operaciones:
+
+a) La industria 3.0 con la integración de tecnologías avanzadas en procesos productivos.
+b) Relaciones a corto plazo o meramente transaccionales con los proveedores de la cadena de suministro.
+c) Clientes cada vez más informados, que desempeñan un papel activo con la co-creación de los productos o servicios con las empresas. (Correcta)
+d) Todas las opciones son correctas.
+Pregunta 10: HP, una empresa multinacional, tiene capacidad de adaptarse a los cambios de la demanda para introducir innovaciones. Según esta capacidad, su respuesta es:
+
+a) Flexible. (Correcta)
+b) Fiable.
+c) Rápida.
+d) Innovadora (radical).
+
