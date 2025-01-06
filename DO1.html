@@ -63,6 +63,7 @@
 
   <!-- Contenedor de la pregunta actual -->
   <div id="question-container">
+    <h2  id="prueba" >Las preguntas con Justificación1-2 son Respondidas con GPT, Justificación3 es de clase</h2>
     <p id="question">Pulsa "Comenzar Examen" para iniciar</p>
     <div id="answers-radios"></div>
   </div>
@@ -104,8 +105,7 @@
 
   // BANCO DE PREGUNTAS (Ejemplo Demo):
   const allQuestions = [
-    // Tus preguntas aquí...
-    {
+  {
     "question": "El cloud computing o la computación en la nube es un ejemplo claro de innovación incremental que ha cambiado los trabajos en remoto y en no remoto en las empresas, consiguiendo una mayor eficiencia y velocidad en la adopción de nuevo software.",
     "correctAnswer": "Falso",
     "justifications": [
@@ -577,7 +577,826 @@
       "Justificación 1: Este modelo minimiza inventarios y responde rápidamente a los cambios en la demanda.",
       "Justificación 2: Altos niveles de inventario son característicos de enfoques menos dinámicos, como el modelo Push."
     ]
-  }
+  },
+  {
+  "question": "La dirección de operaciones se centra en la transformación de inputs en outputs, dando lugar tanto a bienes como a servicios.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La dirección de operaciones se centra exclusivamente en la fabricación de productos o bienes tangibles.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La dirección de operaciones abarca tanto bienes como servicios, no se limita únicamente a bienes tangibles.",
+    "Justificación 2: Incluye actividades de transformación que generan valor a través de bienes o servicios según las necesidades del cliente."
+  ]
+},
+{
+  "question": "Una tendencia de la dirección de operaciones es que los clientes desempeñen un papel activo en la co-creación de los productos o servicios.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Una tendencia de la dirección de operaciones es mantener relaciones a corto plazo con los proveedores de la cadena de suministro.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Las relaciones con los proveedores se buscan a largo plazo para lograr mayor eficiencia y colaboración en la cadena de suministro.",
+    "Justificación 2: Las relaciones transaccionales no suelen alinearse con estrategias de co-creación de valor con los clientes."
+  ]
+},
+{
+  "question": "Un servicio como el de 'Room Mate Hotels' tiene una calidad difícil de medir y evaluar objetivamente.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Un servicio como el de 'Room Mate Hotels' es patentable y se puede registrar como idea en la Oficina Española de Patentes y Marcas.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Los servicios no son patentables, ya que están basados en conocimiento y métodos de prestación.",
+    "Justificación 2: La intangibilidad de los servicios dificulta protegerlos mediante patentes."
+  ]
+},
+{
+  "question": "La servitización promueve la oferta de soluciones frente a la venta de bienes en las empresas industriales.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La planificación de requerimientos de materiales (MRP) es el concepto que mejor describe la tendencia hacia la servitización.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La MRP se enfoca en la gestión de materiales para la producción, no en la integración de servicios y productos.",
+    "Justificación 2: La servitización busca ofrecer soluciones integrales, no solo optimizar procesos productivos."
+  ]
+},
+{
+  "question": "La manzana 'Pink Lady' representa una estrategia de diferenciación basada en la percepción de calidad y sabor superior.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Una empresa que comercializa una amplia gama de dentífricos sin que los clientes las distingan claramente sigue una estrategia de diferenciación.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La diferenciación busca destacar cualidades únicas que los clientes puedan identificar y valorar.",
+    "Justificación 2: En este caso, la gama indistinguible no refuerza el posicionamiento diferencial del producto."
+  ]
+},
+{
+  "question": "La capacidad de HP para adaptarse a cambios en la demanda la hace una empresa flexible.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La capacidad de HP para adaptarse a cambios en la demanda se define como fiabilidad.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La fiabilidad se relaciona con la consistencia en la entrega del producto o servicio, no con la capacidad de adaptación.",
+    "Justificación 2: La adaptación a cambios en la demanda es una característica de flexibilidad, no de fiabilidad."
+  ]
+},
+{
+  "question": "La gestión de inventarios es una decisión táctica dentro de las operaciones.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El diseño del producto/servicio es una decisión táctica dentro de las operaciones.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El diseño del producto/servicio es una decisión estratégica porque impacta en el largo plazo y define la propuesta de valor de la empresa.",
+    "Justificación 2: Las decisiones tácticas se enfocan en el corto y mediano plazo, como la gestión de inventarios."
+  ]
+},
+{
+  "question": "Inditex utiliza una estrategia Lean para minimizar desperdicios y mejorar la eficiencia en su cadena de suministro.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Inditex utiliza únicamente estrategias ágiles en su cadena de suministro, descartando por completo el enfoque Lean.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Inditex combina enfoques Lean y ágiles, dependiendo de la necesidad de eficiencia o flexibilidad en distintas áreas.",
+    "Justificación 2: La estrategia Lean es fundamental para reducir costos y tiempos en operaciones estables."
+  ]
+},
+{
+  "question": "La cadena de suministro ágil tiene como objetivo alcanzar mayor flexibilidad y rapidez para atender la demanda.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La cadena de suministro ágil se basa en mantener altos niveles de inventario para satisfacer la demanda.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Una cadena de suministro ágil minimiza inventarios y prioriza respuestas rápidas a cambios en la demanda.",
+    "Justificación 2: Altos niveles de inventario son característicos de estrategias Push, no de modelos ágiles."
+  ]
+},
+{
+  "question": "La gestión de la cadena de suministro Lean suele emplearse en productos funcionales con demanda estable.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La gestión de la cadena de suministro Lean se centra en productos innovadores con alta variabilidad en la demanda.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Los productos innovadores requieren mayor flexibilidad, característica de cadenas de suministro ágiles.",
+    "Justificación 2: La gestión Lean es adecuada para productos funcionales con demanda predecible."
+  ]
+},
+{
+  "question": "La prestación de servicios es más intensiva en trabajo que el desarrollo de productos.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La prestación de servicios es menos intensiva en trabajo que el desarrollo de productos.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Los servicios requieren un mayor contacto directo con los clientes, lo que aumenta la necesidad de mano de obra.",
+    "Justificación 2: Los productos suelen ser más intensivos en capital que en trabajo debido a la automatización de procesos."
+  ]
+},
+{
+  "question": "El incremento de la facturación online de la industria del videojuego en 2022, junto con sus predicciones futuras, son factores que pueden determinar el éxito de los videojuegos en la plataforma smartphone.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Las restricciones del gobierno chino sobre los menores de edad son el único factor que determina el éxito de los videojuegos en la plataforma smartphone.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Aunque las restricciones influyen, el crecimiento de la facturación online y las predicciones futuras son también factores clave.",
+    "Justificación 2: El éxito en videojuegos depende de una combinación de factores económicos, sociales y tecnológicos."
+  ]
+},
+{
+  "question": "El enfoque secuencial presenta menores tiempos de toma de decisiones que el enfoque concurrente.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El enfoque secuencial presenta mayores tiempos de toma de decisiones que el enfoque concurrente.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El enfoque concurrente permite solapar actividades y reducir tiempos de decisión.",
+    "Justificación 2: El enfoque secuencial sigue un orden estricto, lo que alarga los tiempos de decisión."
+  ]
+},
+{
+  "question": "El desarrollo de nuevos productos consiste en identificar una oportunidad de negocio como fase inicial del proceso.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El desarrollo de nuevos productos comienza siempre con el diseño del producto y su viabilidad futura.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La fase inicial del desarrollo de nuevos productos consiste en identificar una oportunidad de negocio.",
+    "Justificación 2: El diseño y la viabilidad son pasos posteriores en el proceso de desarrollo."
+  ]
+},
+{
+  "question": "El ciclo de vida de los productos se refiere a la duración del producto en el mercado, relacionando ventas y tiempo.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El ciclo de vida de los productos se refiere únicamente a la vida útil física del producto.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El ciclo de vida abarca desde la introducción hasta la retirada del mercado, considerando ventas y tiempo.",
+    "Justificación 2: No se limita a la vida útil del producto, sino que incluye aspectos comerciales y estratégicos."
+  ]
+},
+{
+  "question": "En la etapa de madurez del ciclo de vida de un producto, se busca establecer sistemas de producción de grandes volúmenes para aprovechar economías de escala.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "En la etapa de madurez del ciclo de vida de un producto, se eliminan productos que no proporcionen un margen aceptable.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: En la etapa de madurez, el objetivo principal es optimizar costes a través de economías de escala.",
+    "Justificación 2: La eliminación de productos ocurre en etapas de declive, no en la madurez."
+  ]
+},
+{
+  "question": "Durante la etapa de introducción, los viajes al espacio de lujo probablemente tendrán beneficios negativos debido a los elevados costes de desarrollo previos.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Durante la etapa de introducción, es probable que los viajes al espacio de lujo tengan beneficios positivos inmediatos.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Los altos costes iniciales en proyectos innovadores suelen generar pérdidas durante la etapa de introducción.",
+    "Justificación 2: Los beneficios se logran en etapas posteriores cuando el mercado madura y los costes se optimizan."
+  ]
+},
+{
+  "question": "El diseño modular permite crear más variedad en el output sin asumir los elevados costes de la personalización.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El diseño modular no aporta variedad al output y genera costes comparables a los de la personalización.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El diseño modular ofrece variedad al combinar componentes estándar de distintas maneras.",
+    "Justificación 2: Reduce los costes en comparación con la personalización completa, manteniendo flexibilidad."
+  ]
+},
+{
+  "question": "La viabilidad técnica determina la compatibilidad del nuevo producto con las operaciones de la empresa, asegurando que esta disponga de los medios, habilidades y conocimientos necesarios para producirlo.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La viabilidad técnica no está relacionada con los medios, habilidades y conocimientos necesarios para producir un nuevo producto.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La viabilidad técnica evalúa la capacidad de la empresa para producir un producto basándose en sus recursos y competencias.",
+    "Justificación 2: Si una empresa carece de los medios adecuados, no podrá garantizar la producción del nuevo producto."
+  ]
+},
+{
+  "question": "El uso de motores redundantes en los aviones garantiza la fiabilidad del producto.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El uso de motores redundantes en los aviones tiene como objetivo reducir costes de fabricación.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La redundancia en diseño de motores no busca reducir costes, sino mejorar la seguridad y fiabilidad del producto.",
+    "Justificación 2: Un diseño redundante asegura que el avión pueda funcionar incluso si uno de los motores falla."
+  ]
+},
+{
+  "question": "El CAM se centra en la fabricación asistida por ordenador, mientras que el CAD dirige y controla el diseño de los productos.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El CAM dirige y controla el diseño de los productos, mientras que el CAD se centra exclusivamente en la producción.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El CAM está enfocado en la fabricación asistida por ordenador, no en el diseño de los productos.",
+    "Justificación 2: El CAD, en cambio, es una herramienta orientada al diseño y no al proceso de fabricación."
+  ]
+},
+{
+  "question": "La estrategia de desarrollo interno conlleva mayores costes y riesgos de desarrollo de producto que una estrategia de desarrollo externo.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La estrategia de desarrollo interno tiene menores costes y riesgos que una estrategia de desarrollo externo.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El desarrollo interno requiere inversiones significativas en recursos propios, lo que eleva los costes y riesgos.",
+    "Justificación 2: El desarrollo externo permite aprovechar tecnologías existentes y reducir la incertidumbre asociada a proyectos nuevos."
+  ]
+},
+{
+  "question": "La adquisición de una startup por parte de una empresa para desarrollar un nuevo producto es un ejemplo de estrategia de desarrollo externo.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La adquisición de una startup por parte de una empresa para desarrollar un nuevo producto es un ejemplo de estrategia de desarrollo interno.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El desarrollo externo implica la incorporación de tecnología o conocimientos mediante alianzas o adquisiciones, no el uso de recursos internos.",
+    "Justificación 2: La adquisición de una startup es una forma de acceder a capacidades externas que complementen las propias de la empresa."
+  ]
+},
+{
+  "question": "La estrategia del proceso productivo tiene como objetivo transformar recursos en bienes y servicios que satisfagan los requisitos del cliente.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La estrategia del proceso productivo no considera las restricciones de coste y gestión existentes.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La estrategia del proceso productivo debe cumplir con las especificaciones del producto dentro de las restricciones de coste y gestión existentes.",
+    "Justificación 2: Estas restricciones son clave para mantener la sostenibilidad y eficiencia de los procesos productivos."
+  ]
+},
+{
+  "question": "La flexibilidad en el diseño del proceso productivo de Airbnb le permitió reaccionar a los cambios en el volumen durante el confinamiento por COVID-19.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Airbnb utilizó la integración vertical hacia atrás para afrontar los cambios en la demanda durante el confinamiento por COVID-19.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Airbnb no implementó integración vertical hacia atrás, sino que apostó por la flexibilidad para adaptarse a la demanda cambiante.",
+    "Justificación 2: La flexibilidad le permitió ofrecer nuevas experiencias virtuales, como meditaciones y clases de cocina."
+  ]
+},
+{
+  "question": "El enfoque de proceso es adecuado para la producción artesanal de bolígrafos de lujo únicos.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El enfoque repetitivo es más adecuado que el enfoque de proceso para la producción artesanal de bolígrafos de lujo únicos.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El enfoque repetitivo es ideal para la producción en masa, no para productos artesanales o de alta personalización.",
+    "Justificación 2: El enfoque de proceso permite adaptarse a la complejidad y personalización de cada bolígrafo único."
+  ]
+},
+{
+  "question": "El enfoque repetitivo combina ventajas del enfoque de proceso y de producto, logrando menor coste y mayor personalización.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El enfoque de producto ofrece mayor personalización y menores costes que el enfoque repetitivo.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El enfoque de producto se caracteriza por costes variables altos y una personalización limitada.",
+    "Justificación 2: El enfoque repetitivo equilibra costes y personalización mejor que el enfoque de producto."
+  ]
+},
+{
+  "question": "El enfoque por proyectos es ideal cuando los inputs y outputs presentan elevada especificidad.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El enfoque por proyectos es ideal para la producción en masa de productos estandarizados.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El enfoque por proyectos se utiliza para productos únicos o de alta complejidad, no para producción en masa.",
+    "Justificación 2: La producción en masa utiliza enfoques como el repetitivo o el de producto."
+  ]
+},
+{
+  "question": "Los diagramas de flujo consideran la variable tiempo para esquematizar el movimiento del material, el producto y/o las personas.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Los diagramas de flujo ignoran la variable tiempo en el análisis de los procesos.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Los diagramas de flujo incorporan el tiempo como una dimensión crítica para evaluar la eficiencia de los procesos.",
+    "Justificación 2: Sin considerar el tiempo, no se podrían identificar cuellos de botella ni optimizar la secuencia de tareas."
+  ]
+},
+{
+  "question": "La productividad multifactorial emplea una unidad de medida y un horizonte temporal común para todos los factores.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La productividad multifactorial se basa en diferentes unidades de medida para cada factor involucrado.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La productividad multifactorial utiliza una unidad estándar para evaluar todos los factores de producción.",
+    "Justificación 2: Esto permite comparaciones consistentes entre distintos procesos y períodos temporales."
+  ]
+},
+{
+  "question": "El análisis coste-volumen-beneficio considera tanto perspectivas económicas como financieras.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El análisis coste-volumen-beneficio solo considera factores financieros, ignorando aspectos económicos.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El CVB integra factores financieros y económicos para evaluar la viabilidad de decisiones empresariales.",
+    "Justificación 2: Se enfoca en analizar los costes fijos, variables y el punto de equilibrio en las operaciones."
+  ]
+},
+{
+  "question": "Polestar comenzará a generar beneficios en 2023 según las proyecciones de su estrategia de expansión.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Polestar incurrirá en numerosas pérdidas en 2023 a pesar de su estrategia de expansión internacional.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Las proyecciones indican que Polestar cruzará el umbral de rentabilidad en 2023.",
+    "Justificación 2: La estrategia de expansión está diseñada para incrementar las ventas y reducir costes fijos."
+  ]
+},
+{
+  "question": "La capacidad productiva a largo plazo influye en la capacidad de respuesta de una empresa, en su estructura de costes, política de inventario y características de la fuerza de trabajo.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La capacidad productiva a largo plazo no tiene impacto en la estructura de costes, política de inventario o fuerza de trabajo de una empresa.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La capacidad productiva a largo plazo define aspectos críticos como los costes fijos, la política de inventarios y la gestión de recursos humanos.",
+    "Justificación 2: Estas decisiones tienen un impacto directo en la sostenibilidad y competitividad de la empresa."
+  ]
+},
+{
+  "question": "El overbooking en aerolíneas es una práctica legal que anticipa un exceso de capacidad ante una demanda determinada.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El overbooking en aerolíneas prevé un defecto de capacidad ante una demanda determinada.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El overbooking anticipa que algunos clientes no utilizarán sus reservas, permitiendo vender más plazas de las disponibles.",
+    "Justificación 2: Este exceso de capacidad busca maximizar los ingresos, no compensar un defecto de capacidad."
+  ]
+},
+{
+  "question": "En empresas manufactureras con procesos repetitivos, es adecuado medir la capacidad en base a outputs.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "En empresas manufactureras con procesos repetitivos, es adecuado medir la capacidad en base a inputs.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: En procesos repetitivos, los outputs son la medida más adecuada porque reflejan el rendimiento total.",
+    "Justificación 2: Medir en base a inputs es más común en procesos discontinuos o personalizados."
+  ]
+},
+{
+  "question": "Para expandirse en Europa, una empresa puede ampliar instalaciones y construir otras nuevas en diferentes países.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Ampliar instalaciones y construir otras nuevas en diferentes países no es una solución adecuada para expandirse en Europa.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La expansión internacional frecuentemente requiere nuevas instalaciones para atender la demanda local.",
+    "Justificación 2: Esta estrategia permite mejorar la proximidad al cliente y optimizar la logística."
+  ]
+},
+{
+  "question": "Si el factor de utilización de una planta es del 90% y la capacidad diseñada es de 100 bolígrafos por día, la capacidad disponible será de 90 bolígrafos por día.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Si el factor de utilización de una planta es del 90% y la capacidad diseñada es de 100 bolígrafos por día, la capacidad disponible será de 85 bolígrafos por día.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La capacidad disponible se calcula multiplicando la capacidad diseñada por el factor de utilización (100 × 0.9 = 90).",
+    "Justificación 2: El cálculo correcto no arroja 85 bolígrafos por día, ya que el factor de utilización es del 90%."
+  ]
+},
+{
+  "question": "Las deseconomías de escala implican que al incrementar el volumen de producción, el coste medio por unidad aumenta.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Las deseconomías de escala implican que al incrementar el volumen de producción, los costes totales disminuyen.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Las deseconomías de escala incrementan los costes medios debido a ineficiencias organizativas y de coordinación.",
+    "Justificación 2: Un aumento en la producción no siempre reduce los costes totales, especialmente en estructuras no optimizadas."
+  ]
+},
+{
+  "question": "Cuando Apple puede ensamblar iPads y iPhones con componentes comunes, se aprovechan economías de alcance.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Cuando Apple puede ensamblar iPads y iPhones con componentes comunes, se generan cuellos de botella.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Las economías de alcance surgen al compartir recursos o procesos entre diferentes líneas de productos.",
+    "Justificación 2: Los cuellos de botella limitan la producción, mientras que Apple optimiza la capacidad compartida."
+  ]
+},
+{
+  "question": "Tras la crisis de suministros post-COVID-19, las empresas pueden influir en la demanda incrementando los precios como una solución a corto plazo.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Tras la crisis de suministros post-COVID-19, ninguna opción es válida para ajustar la capacidad de las empresas a corto plazo.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Las empresas pueden adoptar diversas medidas como incrementar precios, poner pedidos en 'back order' o disminuir actividades no rentables.",
+    "Justificación 2: Estas soluciones buscan ajustar la oferta a la demanda en un entorno de crisis."
+  ]
+},
+{
+  "question": "Un modelo de ajuste de capacidad reactivo o conservador resulta adecuado cuando existen altos costes o insatisfacción de la demanda.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Un modelo de ajuste de capacidad reactivo o conservador se implementa cuando la demanda es perfectamente predecible.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El ajuste reactivo es utilizado en situaciones de alta incertidumbre o cuando existen elevados costes asociados a la capacidad ociosa.",
+    "Justificación 2: En entornos con demanda predecible, suelen aplicarse modelos proactivos o expansivos."
+  ]
+},
+{
+  "question": "La población de clientes para el grupo de ADE de mañana es finita, ya que el número de estudiantes actuales afecta al número de estudiantes potenciales.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La población de clientes para el grupo de ADE de mañana es infinita, ya que los estudiantes actuales no afectan al número de estudiantes potenciales.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La población finita implica que los recursos disponibles (número de plazas) influyen en el número de posibles clientes.",
+    "Justificación 2: En este caso, las plazas limitadas condicionan la participación de nuevos estudiantes."
+  ]
+},
+{
+  "question": "La cola única en servicios genera mayor sensación de justicia, ya que el orden de llegada se cumple estrictamente.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La cola única en servicios no mejora la percepción de justicia en los clientes.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La cola única minimiza las discrepancias entre clientes y asegura que todos sean atendidos según su orden de llegada.",
+    "Justificación 2: Este modelo también reduce el riesgo de escoger la cola incorrecta o más lenta."
+  ]
+},
+{
+  "question": "Capacitar y formar a los trabajadores es una medida recomendada para resolver problemas de capacidad en los servicios.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "No hacer nada frente a los problemas de capacidad en los servicios siempre proyecta una imagen positiva de la empresa.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Ignorar los problemas de capacidad puede llevar a insatisfacción del cliente y pérdida de reputación.",
+    "Justificación 2: La capacitación de los empleados mejora la eficiencia operativa y la percepción del cliente."
+  ]
+},
+{
+  "question": "El revenue management es adecuado cuando existe la posibilidad de segmentar el mercado.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El revenue management solo es adecuado para empresas hoteleras y aerolíneas.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El revenue management puede aplicarse en cualquier sector donde sea posible segmentar mercados y optimizar precios.",
+    "Justificación 2: Aunque es común en hoteles y aerolíneas, no se limita exclusivamente a estos sectores."
+  ]
+},
+{
+  "question": "La decisión de localización afecta la estructura de costes de la empresa, siendo difícilmente recuperable a corto y medio plazo.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La decisión de localización es de carácter operativo y tiene un impacto a corto plazo.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La decisión de localización es estratégica y tiene un impacto a largo plazo en la estructura de costes de la empresa.",
+    "Justificación 2: Este tipo de decisión no corresponde a decisiones operativas de corto plazo."
+  ]
+},
+{
+  "question": "Una posible razón para la deslocalización de Ford en Almussafes es el cambio en el coste de los inputs.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La deslocalización de Ford en Almussafes se debe a una insuficiente capacidad productiva.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La capacidad productiva no es un factor relevante en este caso; los costes de los inputs tienen un mayor peso en la decisión.",
+    "Justificación 2: La deslocalización busca reducir costes, y el cambio en los inputs suele ser una causa determinante."
+  ]
+},
+{
+  "question": "El análisis preliminar en el proceso de localización corresponde al establecimiento de requisitos considerando la importancia relativa de cada uno.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "En la fase de análisis preliminar de localización, solo se utilizan técnicas cuantitativas para evaluar alternativas.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: En esta fase se consideran requisitos cualitativos y cuantitativos para determinar la importancia relativa de cada factor.",
+    "Justificación 2: Las técnicas cuantitativas se aplican en etapas posteriores de evaluación y selección de alternativas."
+  ]
+},
+{
+  "question": "Los viveros, semilleros e incubadoras ofrecen condiciones ventajosas a las empresas, favoreciendo la innovación y creatividad.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Los espacios de coworking tienen carácter temporal de 1 a 3 años, como los viveros y semilleros.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Los espacios de coworking no tienen un límite temporal específico como los viveros o semilleros.",
+    "Justificación 2: Los coworking están diseñados para fomentar la colaboración a largo plazo sin restricciones temporales estrictas."
+  ]
+},
+{
+  "question": "El dumping social es una práctica que reduce costes aprovechando condiciones laborales desfavorables en países en desarrollo.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El dumping social es una estrategia para fomentar el comercio justo en mercados internacionales.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El dumping social se considera una práctica desleal que busca ventajas competitivas explotando condiciones laborales desfavorables.",
+    "Justificación 2: No promueve el comercio justo, sino que genera competencia desleal entre países."
+  ]
+},
+{
+  "question": "Las economías de localización derivan de la concentración de empresas del mismo sector en una misma zona geográfica.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Las economías de localización surgen cuando las empresas se alejan de otras del mismo sector para reducir competencia.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Las economías de localización dependen de la proximidad de empresas similares, no de su separación.",
+    "Justificación 2: La concentración en un área permite compartir recursos, conocimientos y reducir costes."
+  ]
+},
+{
+  "question": "El consumo energético de un servidor es un criterio importante al seleccionar servicios de alquiler debido a los costes asociados.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La ubicación física de un servidor remoto, como en el fondo del mar, es más importante que su consumo energético.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El consumo energético tiene un impacto directo en los costes operativos del servicio, mientras que la ubicación remota no siempre aporta beneficios significativos.",
+    "Justificación 2: La eficiencia energética es un criterio clave en la selección de servidores."
+  ]
+},
+{
+  "question": "La proximidad al mercado potencial no es relevante para la localización de una empresa virtual.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La proximidad al mercado potencial es relevante para la localización de una empresa virtual.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: En una empresa virtual, los factores clave son la conectividad y la infraestructura tecnológica, no la proximidad geográfica al mercado.",
+    "Justificación 2: Las empresas virtuales operan globalmente y no dependen de la ubicación física de sus clientes."
+  ]
+},
+{
+  "question": "La distribución en planta o layout determina el flujo de procesos y operaciones dentro de la empresa.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La distribución en planta o layout no tiene impacto en el flujo de procesos ni en las operaciones.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El layout está directamente relacionado con la disposición de los recursos productivos y cómo se asignan las tareas.",
+    "Justificación 2: Una buena planificación del layout optimiza el flujo de operaciones y reduce tiempos muertos."
+  ]
+},
+{
+  "question": "Uno de los objetivos básicos del layout es lograr una circulación mínima de materiales y personas.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El layout prioriza la flexibilidad por encima de la minimización de movimientos en materiales y personas.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El layout busca optimizar los recorridos y minimizar movimientos innecesarios para reducir costes y tiempos.",
+    "Justificación 2: Aunque la flexibilidad es importante, la circulación mínima es clave para mejorar la eficiencia."
+  ]
+},
+{
+  "question": "Un programa de 'hoteling' permite a los trabajadores reservar espacios de trabajo según sus necesidades, sin asignarles un espacio fijo.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Un programa de 'hoteling' consiste en oficinas que permiten a los trabajadores hospedarse y pernoctar temporalmente.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El 'hoteling' no implica hospedaje ni pernocta, sino la asignación flexible de espacios de trabajo.",
+    "Justificación 2: Este modelo permite a los trabajadores utilizar escritorios u oficinas según disponibilidad, optimizando el uso del espacio."
+  ]
+},
+{
+  "question": "Una de las ventajas de una oficina convencional es que ofrece mayor privacidad y confidencialidad en comparación con otros espacios.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Una de las ventajas de una oficina convencional es que reduce significativamente los costes de calefacción, aire y limpieza.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Las oficinas convencionales suelen tener mayores costes operativos en términos de mantenimiento y servicios.",
+    "Justificación 2: Aunque son útiles para tareas confidenciales, no son la opción más económica."
+  ]
+},
+{
+  "question": "El layout de almacenes regula el flujo de existencias y sirve como función de apoyo a la producción.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El layout de almacenes añade valor clave al producto final y tiene un rol prioritario en manufactura.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Los almacenes no añaden valor directo al producto, pero regulan el flujo de materiales para la producción.",
+    "Justificación 2: Su función principal es de apoyo logístico, no de transformación de productos."
+  ]
+},
+{
+  "question": "El cross-docking es un tipo de layout que elimina prácticamente la necesidad de almacenamiento.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El cross-docking se utiliza principalmente para almacenar productos durante largos periodos.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El cross-docking minimiza el almacenamiento al procesar y enviar los productos directamente a su destino final.",
+    "Justificación 2: Este sistema se centra en la velocidad y la eficiencia, no en el almacenamiento prolongado."
+  ]
+},
+{
+  "question": "El layout por proceso o funcional es adecuado para empresas con bajo volumen de producción y alta variedad de productos.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El layout por producto es el más adecuado para empresas con baja producción y alta variedad de productos.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El layout por producto está diseñado para altos volúmenes y poca variedad, no para procesos diversificados.",
+    "Justificación 2: En empresas con alta variedad, el layout funcional permite mayor flexibilidad y personalización."
+  ]
+},
+{
+  "question": "Un buffet libre con áreas organizadas en bebidas, entrantes, platos principales y postres utiliza un layout funcional.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Un buffet libre con áreas organizadas por tipo de comida emplea una distribución mixta en su layout.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Este tipo de organización corresponde a un layout funcional, donde cada área se especializa en un tipo de tarea.",
+    "Justificación 2: Una distribución mixta combinaría elementos de varios layouts, lo cual no aplica aquí."
+  ]
+},
+{
+  "question": "La expansión horizontal en el diseño de puestos enriquece la variedad de tareas, aumentando la motivación de los trabajadores.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La expansión vertical en el diseño de puestos enriquece la variedad de tareas, aumentando la motivación de los trabajadores.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La expansión horizontal incrementa la variedad de tareas; la vertical se centra en aumentar responsabilidades y autonomía.",
+    "Justificación 2: El enriquecimiento de tareas es un enfoque horizontal, no vertical."
+  ]
+},
+{
+  "question": "Las células de trabajo o layout celular utilizan la tecnología de grupos para procesar productos con características similares.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Las células de trabajo o layout celular son exclusivas para productos con altos volúmenes y baja variedad.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El layout celular se adapta a volúmenes medios y productos similares, no exclusivamente a altos volúmenes.",
+    "Justificación 2: Está diseñado para combinar flexibilidad y eficiencia en producciones diversificadas."
+  ]
+},
 
 
   ];
