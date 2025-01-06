@@ -1056,4 +1056,239 @@
     "Justificación 2: Aunque es común en hoteles y aerolíneas, no se limita exclusivamente a estos sectores."
   ]
 },
+{
+  "question": "La decisión de localización afecta la estructura de costes de la empresa, siendo difícilmente recuperable a corto y medio plazo.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La decisión de localización es de carácter operativo y tiene un impacto a corto plazo.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La decisión de localización es estratégica y tiene un impacto a largo plazo en la estructura de costes de la empresa.",
+    "Justificación 2: Este tipo de decisión no corresponde a decisiones operativas de corto plazo."
+  ]
+},
+{
+  "question": "Una posible razón para la deslocalización de Ford en Almussafes es el cambio en el coste de los inputs.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La deslocalización de Ford en Almussafes se debe a una insuficiente capacidad productiva.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La capacidad productiva no es un factor relevante en este caso; los costes de los inputs tienen un mayor peso en la decisión.",
+    "Justificación 2: La deslocalización busca reducir costes, y el cambio en los inputs suele ser una causa determinante."
+  ]
+},
+{
+  "question": "El análisis preliminar en el proceso de localización corresponde al establecimiento de requisitos considerando la importancia relativa de cada uno.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "En la fase de análisis preliminar de localización, solo se utilizan técnicas cuantitativas para evaluar alternativas.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: En esta fase se consideran requisitos cualitativos y cuantitativos para determinar la importancia relativa de cada factor.",
+    "Justificación 2: Las técnicas cuantitativas se aplican en etapas posteriores de evaluación y selección de alternativas."
+  ]
+},
+{
+  "question": "Los viveros, semilleros e incubadoras ofrecen condiciones ventajosas a las empresas, favoreciendo la innovación y creatividad.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Los espacios de coworking tienen carácter temporal de 1 a 3 años, como los viveros y semilleros.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Los espacios de coworking no tienen un límite temporal específico como los viveros o semilleros.",
+    "Justificación 2: Los coworking están diseñados para fomentar la colaboración a largo plazo sin restricciones temporales estrictas."
+  ]
+},
+{
+  "question": "El dumping social es una práctica que reduce costes aprovechando condiciones laborales desfavorables en países en desarrollo.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El dumping social es una estrategia para fomentar el comercio justo en mercados internacionales.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El dumping social se considera una práctica desleal que busca ventajas competitivas explotando condiciones laborales desfavorables.",
+    "Justificación 2: No promueve el comercio justo, sino que genera competencia desleal entre países."
+  ]
+},
+{
+  "question": "Las economías de localización derivan de la concentración de empresas del mismo sector en una misma zona geográfica.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Las economías de localización surgen cuando las empresas se alejan de otras del mismo sector para reducir competencia.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Las economías de localización dependen de la proximidad de empresas similares, no de su separación.",
+    "Justificación 2: La concentración en un área permite compartir recursos, conocimientos y reducir costes."
+  ]
+},
+{
+  "question": "El consumo energético de un servidor es un criterio importante al seleccionar servicios de alquiler debido a los costes asociados.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La ubicación física de un servidor remoto, como en el fondo del mar, es más importante que su consumo energético.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El consumo energético tiene un impacto directo en los costes operativos del servicio, mientras que la ubicación remota no siempre aporta beneficios significativos.",
+    "Justificación 2: La eficiencia energética es un criterio clave en la selección de servidores."
+  ]
+},
+{
+  "question": "La proximidad al mercado potencial no es relevante para la localización de una empresa virtual.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La proximidad al mercado potencial es relevante para la localización de una empresa virtual.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: En una empresa virtual, los factores clave son la conectividad y la infraestructura tecnológica, no la proximidad geográfica al mercado.",
+    "Justificación 2: Las empresas virtuales operan globalmente y no dependen de la ubicación física de sus clientes."
+  ]
+},
+{
+  "question": "La distribución en planta o layout determina el flujo de procesos y operaciones dentro de la empresa.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La distribución en planta o layout no tiene impacto en el flujo de procesos ni en las operaciones.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El layout está directamente relacionado con la disposición de los recursos productivos y cómo se asignan las tareas.",
+    "Justificación 2: Una buena planificación del layout optimiza el flujo de operaciones y reduce tiempos muertos."
+  ]
+},
+{
+  "question": "Uno de los objetivos básicos del layout es lograr una circulación mínima de materiales y personas.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El layout prioriza la flexibilidad por encima de la minimización de movimientos en materiales y personas.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El layout busca optimizar los recorridos y minimizar movimientos innecesarios para reducir costes y tiempos.",
+    "Justificación 2: Aunque la flexibilidad es importante, la circulación mínima es clave para mejorar la eficiencia."
+  ]
+},
+{
+  "question": "Un programa de 'hoteling' permite a los trabajadores reservar espacios de trabajo según sus necesidades, sin asignarles un espacio fijo.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Un programa de 'hoteling' consiste en oficinas que permiten a los trabajadores hospedarse y pernoctar temporalmente.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El 'hoteling' no implica hospedaje ni pernocta, sino la asignación flexible de espacios de trabajo.",
+    "Justificación 2: Este modelo permite a los trabajadores utilizar escritorios u oficinas según disponibilidad, optimizando el uso del espacio."
+  ]
+},
+{
+  "question": "Una de las ventajas de una oficina convencional es que ofrece mayor privacidad y confidencialidad en comparación con otros espacios.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Una de las ventajas de una oficina convencional es que reduce significativamente los costes de calefacción, aire y limpieza.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Las oficinas convencionales suelen tener mayores costes operativos en términos de mantenimiento y servicios.",
+    "Justificación 2: Aunque son útiles para tareas confidenciales, no son la opción más económica."
+  ]
+},
+{
+  "question": "El layout de almacenes regula el flujo de existencias y sirve como función de apoyo a la producción.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El layout de almacenes añade valor clave al producto final y tiene un rol prioritario en manufactura.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Los almacenes no añaden valor directo al producto, pero regulan el flujo de materiales para la producción.",
+    "Justificación 2: Su función principal es de apoyo logístico, no de transformación de productos."
+  ]
+},
+{
+  "question": "El cross-docking es un tipo de layout que elimina prácticamente la necesidad de almacenamiento.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El cross-docking se utiliza principalmente para almacenar productos durante largos periodos.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El cross-docking minimiza el almacenamiento al procesar y enviar los productos directamente a su destino final.",
+    "Justificación 2: Este sistema se centra en la velocidad y la eficiencia, no en el almacenamiento prolongado."
+  ]
+},
+{
+  "question": "El layout por proceso o funcional es adecuado para empresas con bajo volumen de producción y alta variedad de productos.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "El layout por producto es el más adecuado para empresas con baja producción y alta variedad de productos.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El layout por producto está diseñado para altos volúmenes y poca variedad, no para procesos diversificados.",
+    "Justificación 2: En empresas con alta variedad, el layout funcional permite mayor flexibilidad y personalización."
+  ]
+},
+{
+  "question": "Un buffet libre con áreas organizadas en bebidas, entrantes, platos principales y postres utiliza un layout funcional.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Un buffet libre con áreas organizadas por tipo de comida emplea una distribución mixta en su layout.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: Este tipo de organización corresponde a un layout funcional, donde cada área se especializa en un tipo de tarea.",
+    "Justificación 2: Una distribución mixta combinaría elementos de varios layouts, lo cual no aplica aquí."
+  ]
+},
+{
+  "question": "La expansión horizontal en el diseño de puestos enriquece la variedad de tareas, aumentando la motivación de los trabajadores.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "La expansión vertical en el diseño de puestos enriquece la variedad de tareas, aumentando la motivación de los trabajadores.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: La expansión horizontal incrementa la variedad de tareas; la vertical se centra en aumentar responsabilidades y autonomía.",
+    "Justificación 2: El enriquecimiento de tareas es un enfoque horizontal, no vertical."
+  ]
+},
+{
+  "question": "Las células de trabajo o layout celular utilizan la tecnología de grupos para procesar productos con características similares.",
+  "correctAnswer": "Verdadero",
+  "justifications": []
+},
+{
+  "question": "Las células de trabajo o layout celular son exclusivas para productos con altos volúmenes y baja variedad.",
+  "correctAnswer": "Falso",
+  "justifications": [
+    "Justificación 1: El layout celular se adapta a volúmenes medios y productos similares, no exclusivamente a altos volúmenes.",
+    "Justificación 2: Está diseñado para combinar flexibilidad y eficiencia en producciones diversificadas."
+  ]
+},
+
 
