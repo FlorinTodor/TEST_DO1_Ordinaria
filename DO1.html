@@ -1426,6 +1426,8 @@
     console.log("startExam() => Quedan", availableQuestions.length, "preguntas.");
     if (availableQuestions.length === 0) {
       alert("No hay preguntas disponibles. Pulsa 'Reiniciar Preguntas' para reponerlas.");
+       // Mostrar el botón de inicio después de reiniciar
+       document.getElementById('start-button').style.display = 'block';
       return;
     }
 
@@ -1457,8 +1459,9 @@
     confirmButton.style.display = 'inline-block';
     nextButton.style.display = 'none';
 
-    // Eliminar o corregir esta línea si 'question-options' no existe
-    // document.getElementById('question-options').style.display = 'block';
+    // Mostrar los elementos relevantes para el nuevo test
+    document.getElementById('question-container').style.display = 'block';
+    document.getElementById('question-options').style.display = 'block'
   }
 
   // MOSTRAR PREGUNTA
