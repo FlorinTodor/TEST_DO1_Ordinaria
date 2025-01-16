@@ -963,16 +963,9 @@
 {
   "question": "El análisis coste-volumen-beneficio considera tanto perspectivas económicas como financieras.",
   "correctAnswer": "Verdadero",
-  "justifications": []
+  "justifications": [ "Justificación 1: Solo económica"]
 },
-{
-  "question": "El análisis coste-volumen-beneficio solo considera factores financieros, ignorando aspectos económicos.",
-  "correctAnswer": "Falso",
-  "justifications": [
-    "Justificación 1: El CVB integra factores financieros y económicos para evaluar la viabilidad de decisiones empresariales.",
-    "Justificación 2: Se enfoca en analizar los costes fijos, variables y el punto de equilibrio en las operaciones."
-  ]
-},
+
 {
   "question": "La capacidad productiva a largo plazo influye en la capacidad de respuesta de una empresa, en su estructura de costes, política de inventario y características de la fuerza de trabajo.",
   "correctAnswer": "Verdadero",
@@ -1512,7 +1505,9 @@
       correctCount++;
       // ELIMINAR PREGUNTA DE availableQuestions
       availableQuestions = availableQuestions.filter(q => q.question !== qObj.question);
-      localStorage.setItem('availableQuestions', JSON.stringify(availableQuestions));
+      // Actualizar el contador de preguntas disponibles
+      document.getElementById('available-questions-count').textContent = availableQuestions.length;
+
     } else {
       incorrectCount++;
       // Guardamos en array
